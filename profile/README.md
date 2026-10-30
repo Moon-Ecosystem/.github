@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🌙 Moon Ecosystem
+<img src="MoonEcosystem.png" width="120" alt="Moon Ecosystem logo"/>
+
+# Moon Ecosystem
 
 Thoughtfully designed Android apps for music, reading and everyday digital life.
 No ads, no tracking, just apps that do their job.
